@@ -14,13 +14,13 @@
 - [x] Implementar tratamento de exceções
 - [x] Implementar o Repository Pattern
 - [x] Aplicar Fail-Fast Validations
-- [ ] Escrever testes de unidade para Handlers, Entities, Queries e Commands
-- [ ] Aprender a utilizar Entity Framework Core em um projeto de API
-- [ ] Aprender a utilizar banco de dados em memória
-- [ ] Aprender sobre Data Context e mapeamentos
-- [ ] Criar fakes e mocks para testes de unidade
-- [ ] Escrever controllers enxutos e organizar responsabilidades
-- [ ] Implementar login através de um provedor externo (Google) com Firebase
+- [x] Escrever testes de unidade para Handlers, Entities, Queries e Commands
+- [x] Aprender a utilizar Entity Framework Core em um projeto de API
+- [x] Aprender a utilizar banco de dados em memória
+- [x] Aprender sobre Data Context e mapeamentos
+- [x] Criar fakes e mocks para testes de unidade
+- [x] Escrever controllers enxutos e organizar responsabilidades
+- [x] Implementar login através de um provedor externo (Google) com Firebase
 
 ### Tecnologias
 
